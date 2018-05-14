@@ -1,0 +1,6 @@
+﻿  Bat.cpp
+c:\users\hanna\source\repos\pong\pong\bat.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\hanna\source\repos\pong\pong\bat.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\hanna\source\repos\pong\pong\bat.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Pong.vcxproj -> C:\Users\Hanna\source\repos\Pong\x64\Debug\Pong.exe
+  Pong.vcxproj -> C:\Users\Hanna\source\repos\Pong\x64\Debug\Pong.pdb (Partial PDB)
